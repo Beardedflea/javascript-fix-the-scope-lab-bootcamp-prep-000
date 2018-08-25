@@ -29,7 +29,6 @@ var theFunk = funkyFunction(function){
   return "FUNKY!"
 }
 
-theFunk;
 
 
 
