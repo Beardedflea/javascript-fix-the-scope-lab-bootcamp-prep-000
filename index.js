@@ -29,6 +29,8 @@ var theFunk = funkyFunction()
 
 funkyFunction();
 
+theFunk()
+
 
 
 
